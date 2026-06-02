@@ -1,9 +1,8 @@
 #  Build a Database Server (AWS)
 
-## Author
 
-* **Name**: Jagadeesh T
-* **Register Number**: 212224020017
+# Name: Jagadeesh T
+# Register Number: 212224020017
 
 ---
 
